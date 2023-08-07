@@ -1,0 +1,19 @@
+check attached
+1. pic - to see how app looks like now
+2. text file - it has 1 mil links inside
+3. the code it self .
+
+
+
+what i need is the next small things :
+
+
+
+1. the ability to Select folder of text (current has the option to add only a single txt )
+2. once adding the text i need to Show how many texts are imported and how many are left
+3. add a button for export all domains to txt file from db .
+the db contain many links and i need to export ONLY the domains .
+
+
+
+you must write how much time will take u ad im in a rush

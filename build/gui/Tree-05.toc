@@ -1,0 +1,5 @@
+('c:\\python\\lib\\site-packages\\openpyxl-3.2.0b1-py3.9.egg',
+ None,
+ {'*.py', '*.pyd', '*.cp39-win_amd64.pyd', '*.pyw', 'EGG-INFO', '*.pyc'},
+ 'DATA',
+ [])

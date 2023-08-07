@@ -1,0 +1,10 @@
+('c:\\python\\lib\\site-packages\\pytest-7.2.2-py3.9.egg',
+ None,
+ {'*.py', '*.pyd', '*.cp39-win_amd64.pyd', '*.pyw', 'EGG-INFO', '*.pyc'},
+ 'DATA',
+ [('_pytest\\py.typed',
+   'c:\\python\\lib\\site-packages\\pytest-7.2.2-py3.9.egg\\_pytest\\py.typed',
+   'DATA'),
+  ('pytest\\py.typed',
+   'c:\\python\\lib\\site-packages\\pytest-7.2.2-py3.9.egg\\pytest\\py.typed',
+   'DATA')])

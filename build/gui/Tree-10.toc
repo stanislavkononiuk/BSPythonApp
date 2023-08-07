@@ -1,0 +1,7 @@
+('c:\\python\\lib\\site-packages\\iniconfig-2.0.0-py3.9.egg',
+ None,
+ {'*.py', '*.pyd', '*.cp39-win_amd64.pyd', '*.pyw', 'EGG-INFO', '*.pyc'},
+ 'DATA',
+ [('iniconfig\\py.typed',
+   'c:\\python\\lib\\site-packages\\iniconfig-2.0.0-py3.9.egg\\iniconfig\\py.typed',
+   'DATA')])
